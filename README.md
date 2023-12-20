@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manyworldss
+- 👋 Hi, I’m Rapheal!
 - 👀 I’m interested in back end software engineer positions, specifically mobile apps.
 - 🌱 I’m currently learning javascript and swift languages
 - 💞️ I’m looking to collaborate on mobile app projects or web based projects.
