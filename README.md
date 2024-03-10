@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rapheal!
-- 👀 I’m interested in back end software engineer positions, specifically mobile apps.
-- 🌱 I’m currently learning javascript and swift languages
+- 👀 I’m interested in software engineer positions, specifically mobile iOS apps.
+- 🌱 I’m currently learning swiftUI.
 - 💞️ I’m looking to collaborate on mobile app projects or web based projects.
-- 📫 How to reach me - linkedin is preferred! www.linkedin.com/in/rapheal-suber-531163247
+- 📫 How to reach me - linkedin is preferred! www.linkedin.com/in/rapheal-suber-531163247.
 
 <!---
 manyworldss/manyworldss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
