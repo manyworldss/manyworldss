@@ -1,5 +1,4 @@
-- Hi, I’m Rapheal!
-- I’m interested in software engineer positions, specifically mobile iOS apps.
+
 - I’m looking to collaborate on mobile app projects or web based projects.
 - How to reach me - linkedin is preferred! www.linkedin.com/in/rapheal-suber-531163247.
 
