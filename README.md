@@ -1,5 +1,5 @@
 
-- I’m looking to collaborate on mobile app projects.
+- I’m looking to collaborate on interesting projects!
 - How to reach me - linkedin is preferred! www.linkedin.com/in/rapheal-suber-531163247.
 
 <!---
