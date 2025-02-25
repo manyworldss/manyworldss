@@ -18,7 +18,7 @@ Professional Experience
 
 Software Engineer @ Wazzle AI: Engineered APIs reducing latency by 25%, optimized microservices improving system reliability by 40%.
 
-📫 Let's Connect
+Let's Connect
 
 LinkedIn - https://www.linkedin.com/in/raphealsuber/
 
