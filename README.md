@@ -1,5 +1,6 @@
 Rapheal Suber
-Software Engineer
+
+
 Software Engineer specializing in Python/Django, REST APIs, and cloud architecture (AWS, Kubernetes, Docker).
 🛠️ Tech Stack
 
