@@ -14,9 +14,6 @@ Current Project
 
 Celio: A multilingual emergency card generator helping people with celiac disease communicate dietary restrictions across language barriers. Built with Django, PostgreSQL, HTMX, and Tailwind CSS. Working on AI assistant called sage to help with various allergy related difficulties.
 
-Professional Experience
-
-Software Engineer @ Wazzle AI: Engineered APIs reducing latency by 25%, optimized microservices improving system reliability by 40%.
 
 Let's Connect
 
