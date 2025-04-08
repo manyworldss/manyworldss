@@ -19,7 +19,7 @@ Let's Connect
 
 Blog: https://dev.to/rapheal_suber_d5fd1bd08e6
 
-LinkedIn - https://www.linkedin.com/in/raphealsuber/
+LinkedIn: https://www.linkedin.com/in/raphealsuber/
 
 Email: ralphsuber@gmail.com
 
