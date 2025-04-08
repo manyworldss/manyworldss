@@ -17,7 +17,7 @@ Celio: A multilingual emergency card generator helping people with celiac diseas
 
 Let's Connect
 
-Medium Blog: https://raphealsuber.medium.com/
+Blog: https://dev.to/rapheal_suber_d5fd1bd08e6
 
 LinkedIn - https://www.linkedin.com/in/raphealsuber/
 
