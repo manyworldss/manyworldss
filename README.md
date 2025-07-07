@@ -1,7 +1,7 @@
 Rapheal Suber
 
 
-DevOps Engineer - Python/Django, REST APIs, Linux, and cloud architecture (AWS, Kubernetes, Docker).
+Python/Django, REST APIs, Linux, and cloud architecture (AWS, Kubernetes, Docker).
 
 
 Languages: Python, SQL, Swift, Bash
