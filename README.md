@@ -33,7 +33,6 @@ I’m here to build things that work for people who need them most. People with 
 
 ### Let’s Connect
 
-UX Portfolio: https://www.notion.so/Rapheal-Suber-Portfolio-245b8ef84954804c8d60fa2c690f850d?source=copy_link
 
 LinkedIn: https://www.linkedin.com/in/raphealsuber/
 
