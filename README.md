@@ -9,7 +9,6 @@ I care about human behavior, ethical tech, and design.
 ### Things I've Built
 
 - **Celio** — a multilingual emergency card app for people with celiac disease. Made for travelers like me who are tired of language gaps putting their health at risk.
-- **Wazzle (Startup)** — helped improve the product by talking to users, designing UI elements in Figma, and pushing code that made their feedback real.
 - **Greenville County** — built internal tools and support systems to help new employees actually feel supported when they joined.
 
 ---
