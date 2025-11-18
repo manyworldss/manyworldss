@@ -1,8 +1,5 @@
 # Hey, I'm Rapheal Suber
 
-Right now I’m in the middle of a shift. I’ve spent time in backend engineering and cloud systems — but where I really find meaning is in understanding people and building tools that actually help them. Not just work for them, help them.
-
-I care about human behavior, ethical tech, and design.
 
 ---
 
