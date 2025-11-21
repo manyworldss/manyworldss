@@ -14,7 +14,7 @@
 
 **Languages**: Python, SQL 
 **Frontend**: Tailwind CSS, HTMX, a little React  
-**DevOps**: Docker, Kubernetes, AWS, CI/CD  
+**DevOps**: Docker, AWS  
 **Databases**: PostgreSQL, MongoDB, Redis  
 **UX/Research**: Figma, interviews, personas, accessibility, documentation
 
