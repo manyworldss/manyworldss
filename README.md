@@ -12,8 +12,7 @@
 
 ### Tools I Use
 
-**Languages**: Python, SQL, Swift, Bash  
-**Backend**: Django, Flask, REST APIs  
+**Languages**: Python, SQL 
 **Frontend**: Tailwind CSS, HTMX, a little React  
 **DevOps**: Docker, Kubernetes, AWS, CI/CD  
 **Databases**: PostgreSQL, MongoDB, Redis  
