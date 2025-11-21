@@ -16,7 +16,7 @@
 **Frontend**: Tailwind CSS, HTMX, a little React  
 **DevOps**: Docker, AWS  
 **Databases**: PostgreSQL, MongoDB, Redis  
-**UX/Research**: Figma, interviews, personas, accessibility, documentation
+**UX/UI/Design**: Figma, interviews, personas, accessibility, documentation, miro. 
 
 ---
 
