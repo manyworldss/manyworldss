@@ -7,7 +7,7 @@
 
 - **Celio** — a multilingual emergency card app for people with celiac disease. Made for travelers like me who are tired of language gaps putting their health at risk.
 - **Greenville County** — built internal tools and support systems to help new employees actually feel supported when they joined.
-- **Currently working on BudgeTales** 
+- **Currently working on BudgeTales** - a budgeting application with a twist 
 
 ## Tools I Use
 
