@@ -12,7 +12,7 @@
 ## Tools I Use
 
 **Languages**: Python, SQL 
-**Frontend**: Tailwind CSS, HTMX, a little React  
+**Frontend**: Tailwind CSS, HTMX, a little React, Alpine js 
 **DevOps**: Docker, AWS  
 **Databases**: PostgreSQL, MongoDB, Redis  
 **UX/UI/Design**: Figma, interviews, personas, accessibility, documentation, miro. 
