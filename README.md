@@ -9,6 +9,7 @@
 - **Greenville County** — built internal tools and support systems to help new employees actually feel supported when they joined.
 - **Currently working on iLLumi** - 
 
+- **Portfolio: https://rapheals.up.railway.app/
 ## Tools I Use
 
 **Languages**: Python, SQL 
