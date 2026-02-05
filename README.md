@@ -7,9 +7,10 @@
 
 - **Celio** — a multilingual emergency card app for people with celiac disease. Made for travelers like me who are tired of language gaps putting their health at risk.
 - **Greenville County** — built internal tools and support systems to help new employees actually feel supported when they joined.
-- **Currently working on iLLumi: https://illumi.up.railway.app/ 
+- **Latest Project** - working on iLLumi: https://illumi.up.railway.app/ 
+- **Currently** - working on Project North Star: A human factors driven tool that evalutes AI models within an organization. 
 
-- Portfolio: https://rapheals.up.railway.app/
+- **Portfolio**: https://rapheals.up.railway.app/
 
 ## Tools I Use
 
