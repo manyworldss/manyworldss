@@ -31,8 +31,6 @@ I’m here to build things that work for people who need them most. People with 
 ### Let’s Connect
 
 
-LinkedIn: https://www.linkedin.com/in/raphealsuber/
-
 Email: ralphsuber@gmail.com
 
 Open to collaboration! 
