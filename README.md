@@ -1,7 +1,7 @@
 # Hey, I'm Rapheal Suber
 
 
----
+
 
 ### Things I've Built
 
@@ -20,13 +20,12 @@
 **Databases**: PostgreSQL, MongoDB, Redis  
 **UX/UI/Design**: Figma, interviews, personas, accessibility, documentation, miro. 
 
----
+
 
 ### What I Care About
 
 I’m here to build things that work for people who need them most. People with dietary restrictions, people with language barriers, people who get overlooked. I bring the technical skills, but the value comes from empathy, curiosity, and honesty. That’s the core of my work — and what I’m trying to get better at every day.
 
----
 
 ### Let’s Connect
 
