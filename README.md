@@ -10,7 +10,6 @@
 - **Latest Project** - working on iLLumi: https://illumi.up.railway.app/ 
 - **Currently** - working on Project North Star: A human factors driven tool that evalutes AI models within an organization. 
 
-- **Portfolio**: https://rapheals.up.railway.app/
 
 ## Tools I Use
 
